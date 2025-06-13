@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-<ModulePrefs title="Play Unblocked Games"/>
-  <Content type="html">
-    <![CDATA[
-    <!DOCTYPE html>
+<ModulePrefs title="Google.com" />
+<Content type="html"><![CDATA[
+
+
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -91,6 +93,6 @@
 </body>
 </html>
 
-    ]]>
-  </Content>
+
+]]></Content>
 </Module>
