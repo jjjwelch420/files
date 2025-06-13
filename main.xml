@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<Module>
+<ModulePrefs title="Play Unblocked Games"/>
+  <Content type="html">
+    <![CDATA[
+    <!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -86,3 +90,7 @@
 
 </body>
 </html>
+
+    ]]>
+  </Content>
+</Module>
